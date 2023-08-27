@@ -22,13 +22,13 @@ This is a simple image drawing and editing tool created using the Tkinter librar
 
 ## Instructions:
 
-Add Image: Click the "Add Image" button to select and display an image on the canvas.
-Change Pen Color: Click the "Change Pen Color" button to select a new color for drawing.
-Change Pen Size: Choose a pen size by clicking on one of the available options: "Small", "Medium" (default), or "Large".
-Draw: Click and drag the left mouse button to draw on the canvas.
-Clear: Click the "Clear" button to clear the canvas and remove all drawings.
-Apply Filter: Select a filter from the dropdown list (Black and White, Blur, Emboss, Sharpen, Smooth) and apply it to the loaded image.
-Undo: Click the "Undo" button to remove the most recent drawn stroke on the canvas.
+1. Add Image: Click the "Add Image" button to select and display an image on the canvas.
+2. Change Pen Color: Click the "Change Pen Color" button to select a new color for drawing.
+3. Change Pen Size: Choose a pen size by clicking on one of the available options: "Small", "Medium" (default), or "Large".
+4. Draw: Click and drag the left mouse button to draw on the canvas.
+5. Clear: Click the "Clear" button to clear the canvas and remove all drawings.
+6. Apply Filter: Select a filter from the dropdown list (Black and White, Blur, Emboss, Sharpen, Smooth) and apply it to the loaded image.
+7. Undo: Click the "Undo" button to remove the most recent drawn stroke on the canvas.
 
 ## License:
 
