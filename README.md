@@ -8,7 +8,7 @@ This is a simple image drawing and editing tool created using the Tkinter librar
 3. Change pen color and size
 4. Clear the canvas
 5. Apply various filters to the image
-6. Undo the last drawn stroke (Added later)
+6. Undo the last drawn stroke
 
 ## Prerequisites
 1. Python 3.x
